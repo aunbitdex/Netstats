@@ -1,0 +1,4 @@
+nohup: appending output to ‘nohup.out’
+2023-02-22 02:16:24.442 [API] [CON] Connection with: OPsw5fS ended: undefined
+2023-02-22 02:16:39.986 [API] (node:121028) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated
+(Use `node --trace-deprecation ...` to show where the warning was created)
